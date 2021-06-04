@@ -10,23 +10,8 @@ h1{
 	padding: 8px;
 }
 p{
-	font-family:'Courgette'
-	font-size: 25px;
-  text-align: center;
-  color: white;
-}
-img{
-	width: 750px;
-	height: 550px;
-	display:block;
-	margin:auto;
-}
-.imagen1:hover{
-  filter: grayscale(90%);
-}
-.imagen2:hover{
-  filter: blur(3px);
-}
-.imagen3:hover{
-  filter: opacity(.5);
+font-family:'Courgette'
+font-size: 25px;
+text-align: center;
+color: white;
 }
